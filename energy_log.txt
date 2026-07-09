@@ -1,0 +1,2 @@
+Refrigerator,108.0 kWh
+Air Conditioner,480.0 kWh
